@@ -8,12 +8,16 @@
 <li> Random forest from sklearn library
 
 ## Used future selection methods:
-<li> Filters: <li\>
-1. feature_importances_ method from sklearn library
-2. euclidean distance (data must be normalized)
-3. coefficient correlation
-<li> Wrapper: <li\>
-1. Forward selection
+<li> Filters: </li>
+  <ol>
+    <li> feature_importances_ method from sklearn library </li>
+    <li> euclidean distance (data must be normalized) </li>
+    <li> coefficient correlation </li>
+  </ol>
+<li> Wrapper: </li>
+  <ol>
+    <li> Forward selection </li>
+  </ol>
 
 ## Results
 
