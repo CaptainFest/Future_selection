@@ -7,7 +7,7 @@
 ## Classificator
 <li> Random forest from sklearn library
 
-##Used future selection methods:
+## Used future selection methods:
 <li> Filters:
   1. feature_importances_ method from sklearn library
   2. euclidean distance (data must be normalized)
