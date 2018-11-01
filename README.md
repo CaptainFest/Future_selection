@@ -9,11 +9,11 @@
 
 ## Used future selection methods:
 <li> Filters:
-  1. feature_importances_ method from sklearn library
-  2. euclidean distance (data must be normalized)
-  3. coefficient correlation
+1. feature_importances_ method from sklearn library
+2. euclidean distance (data must be normalized)
+3. coefficient correlation
 <li> Wrapper:
-  1. Forward selection
+1. Forward selection
 
 ## Results
 
