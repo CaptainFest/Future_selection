@@ -1,6 +1,6 @@
 # Future_selection
 
-**IF YOU DONT SEE THE CODE YOU SHOULD GO HERE <https://nbviewer.jupyter.org/github/CaptainFest/Future_selection/blob/master/Future_selection.ipynb> **
+** IF YOU DONT SEE THE CODE YOU SHOULD GO HERE <https://nbviewer.jupyter.org/github/CaptainFest/Future_selection/blob/master/Future_selection.ipynb> **
 
 ## Data:
 <li> 99 objects with 10000 features train dataset
